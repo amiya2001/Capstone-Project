@@ -1,4 +1,3 @@
-# Capstone-Project
 
 ## Team Members
 
